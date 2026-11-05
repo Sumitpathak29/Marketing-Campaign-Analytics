@@ -1,0 +1,501 @@
+campaign_id,campaign_name,campaign_type,country,start_date,budget,status
+C001,Brand Awareness,Retargeting,UK,2026-01-16,51536.64,Active
+C002,Lead Generation,Retargeting,Australia,2026-03-19,27055.6,Active
+C003,Retargeting,Promotional,Australia,2026-01-28,62156.06,Active
+C004,Brand Awareness,Lead Generation,India,2026-03-24,94514.22,Active
+C005,Holiday Sale,Retargeting,India,2026-03-31,36916.51,Active
+C006,Product Launch,Retargeting,Australia,2026-01-08,51442.87,Completed
+C007,Product Launch,Promotional,Germany,2026-03-08,15180.86,Active
+C008,Brand Awareness,Promotional,Australia,2026-02-08,17677.2,Active
+C009,Product Launch,Lead Generation,India,2026-02-16,27950.01,Active
+C010,Brand Awareness,Retargeting,USA,2026-01-27,66714.76,Completed
+C011,Product Launch,Awareness,Australia,2026-02-06,34520.53,Active
+C012,Holiday Sale,Acquisition,Australia,2026-03-12,95483.46,Active
+C013,Retargeting,Lead Generation,Germany,2026-02-22,47458.14,Active
+C014,Holiday Sale,Promotional,USA,2026-02-01,66179.8,Completed
+C015,Retargeting,Lead Generation,Germany,2026-03-05,60895.54,Completed
+C016,Product Launch,Awareness,India,2026-02-13,54731.45,Active
+C017,Lead Generation,Acquisition,Germany,2026-03-06,45971.69,Active
+C018,Holiday Sale,Promotional,UK,2026-03-05,50152.76,Paused
+C019,Holiday Sale,Acquisition,Australia,2026-03-20,99641.51,Active
+C020,Holiday Sale,Lead Generation,Australia,2026-02-27,18286.84,Active
+C021,Brand Awareness,Awareness,UK,2026-03-08,96953.16,Active
+C022,Retargeting,Promotional,India,2026-03-08,32808.55,Active
+C023,Product Launch,Acquisition,Australia,2026-03-14,81824.35,Active
+C024,Product Launch,Acquisition,Germany,2026-02-08,30784.13,Active
+C025,Product Launch,Acquisition,USA,2026-01-24,45229.48,Active
+C026,Holiday Sale,Acquisition,India,2026-02-18,74127.23,Completed
+C027,Lead Generation,Awareness,USA,2026-02-10,93204.63,Active
+C028,Product Launch,Retargeting,Germany,2026-01-25,49267.37,Active
+C029,Retargeting,Retargeting,USA,2026-01-22,64868.06,Completed
+C030,Lead Generation,Awareness,India,2026-03-11,41270.95,Active
+C031,Brand Awareness,Retargeting,USA,2026-02-22,28850.38,Active
+C032,Lead Generation,Awareness,Australia,2026-03-19,94631.12,Active
+C033,Retargeting,Retargeting,USA,2026-02-18,94514.37,Active
+C034,Holiday Sale,Acquisition,Australia,2026-01-28,97843.14,Active
+C035,Lead Generation,Lead Generation,UK,2026-03-18,98039.97,Active
+C036,Product Launch,Lead Generation,Australia,2026-02-14,91263.57,Completed
+C037,Holiday Sale,Awareness,Australia,2026-01-02,60463.18,Active
+C038,Lead Generation,Promotional,Australia,2026-01-10,37827.29,Active
+C039,Product Launch,Lead Generation,India,2026-02-17,45242.06,Active
+C040,Retargeting,Acquisition,USA,2026-01-11,36336.59,Completed
+C041,Lead Generation,Retargeting,Australia,2026-03-14,38586.42,Paused
+C042,Product Launch,Promotional,UK,2026-01-14,78971.91,Active
+C043,Product Launch,Promotional,Germany,2026-02-12,94580.13,Active
+C044,Brand Awareness,Awareness,USA,2026-02-26,61297.15,Active
+C045,Brand Awareness,Promotional,Germany,2026-01-03,74192.77,Active
+C046,Retargeting,Awareness,UK,2026-03-12,34667.22,Completed
+C047,Brand Awareness,Acquisition,Australia,2026-01-08,90551.97,Completed
+C048,Retargeting,Lead Generation,USA,2026-01-12,57753.03,Active
+C049,Retargeting,Promotional,India,2026-01-05,69602.55,Active
+C050,Brand Awareness,Awareness,Australia,2026-03-31,87761.56,Active
+C051,Product Launch,Promotional,UK,2026-02-08,38461.06,Active
+C052,Brand Awareness,Promotional,UK,2026-02-01,26929.44,Active
+C053,Brand Awareness,Acquisition,India,2026-01-21,60142.9,Active
+C054,Retargeting,Acquisition,USA,2026-03-22,83578.79,Completed
+C055,Brand Awareness,Awareness,Germany,2026-02-24,87248.1,Active
+C056,Lead Generation,Awareness,Australia,2026-03-31,14514.34,Active
+C057,Product Launch,Awareness,India,2026-03-30,81334.88,Active
+C058,Holiday Sale,Lead Generation,USA,2026-03-17,34773.14,Active
+C059,Brand Awareness,Retargeting,India,2026-03-11,19550.52,Active
+C060,Lead Generation,Retargeting,UK,2026-02-04,36715.62,Active
+C061,Retargeting,Acquisition,India,2026-01-31,20955.03,Active
+C062,Holiday Sale,Promotional,Germany,2026-01-03,43606.87,Active
+C063,Lead Generation,Retargeting,UK,2026-03-13,53636.97,Active
+C064,Holiday Sale,Retargeting,Germany,2026-02-15,93058.92,Active
+C065,Retargeting,Acquisition,India,2026-03-20,88740.51,Completed
+C066,Product Launch,Awareness,UK,2026-02-13,77701.9,Active
+C067,Brand Awareness,Awareness,Germany,2026-01-01,18810.62,Active
+C068,Holiday Sale,Awareness,USA,2026-01-01,50524.38,Paused
+C069,Product Launch,Retargeting,USA,2026-03-14,39764.15,Completed
+C070,Lead Generation,Awareness,Germany,2026-03-20,98011.57,Active
+C071,Retargeting,Promotional,Germany,2026-02-01,92329.86,Active
+C072,Product Launch,Awareness,India,2026-01-14,92248.2,Active
+C073,Retargeting,Retargeting,USA,2026-01-06,85454.61,Active
+C074,Lead Generation,Acquisition,Germany,2026-02-26,77436.59,Active
+C075,Retargeting,Awareness,Australia,2026-03-16,73968.44,Active
+C076,Holiday Sale,Awareness,Germany,2026-01-24,57424.45,Completed
+C077,Holiday Sale,Retargeting,UK,2026-01-18,62405.05,Completed
+C078,Product Launch,Promotional,Germany,2026-02-07,53223.46,Active
+C079,Retargeting,Lead Generation,India,2026-03-12,55534.25,Active
+C080,Retargeting,Lead Generation,USA,2026-02-12,24494.14,Paused
+C081,Retargeting,Lead Generation,UK,2026-02-16,31890.62,Completed
+C082,Brand Awareness,Retargeting,USA,2026-02-22,31075.4,Active
+C083,Product Launch,Lead Generation,India,2026-02-17,40683.81,Active
+C084,Retargeting,Promotional,USA,2026-02-16,52001.26,Active
+C085,Holiday Sale,Retargeting,India,2026-01-07,49897.33,Paused
+C086,Product Launch,Lead Generation,Germany,2026-02-02,92482.68,Active
+C087,Lead Generation,Awareness,UK,2026-02-23,24764.23,Active
+C088,Lead Generation,Lead Generation,Germany,2026-01-04,48950.06,Active
+C089,Holiday Sale,Awareness,UK,2026-03-15,32534.39,Active
+C090,Brand Awareness,Lead Generation,Germany,2026-01-12,97240.28,Completed
+C091,Lead Generation,Promotional,UK,2026-01-02,55528.2,Active
+C092,Product Launch,Retargeting,Australia,2026-02-26,63781.57,Active
+C093,Retargeting,Retargeting,USA,2026-02-27,96492.43,Active
+C094,Brand Awareness,Acquisition,Australia,2026-02-24,71939.57,Completed
+C095,Lead Generation,Lead Generation,India,2026-02-20,56092.12,Paused
+C096,Brand Awareness,Promotional,UK,2026-03-02,42847.56,Paused
+C097,Product Launch,Awareness,Australia,2026-02-02,79699.73,Active
+C098,Retargeting,Acquisition,Germany,2026-01-08,46809.15,Completed
+C099,Lead Generation,Acquisition,UK,2026-03-07,78126.3,Active
+C100,Retargeting,Retargeting,Germany,2026-01-23,28047.77,Active
+C101,Holiday Sale,Awareness,Germany,2026-01-08,12133.42,Active
+C102,Brand Awareness,Acquisition,UK,2026-01-22,38339.21,Active
+C103,Product Launch,Retargeting,Australia,2026-03-21,74689.99,Active
+C104,Product Launch,Retargeting,India,2026-03-15,99407.02,Completed
+C105,Product Launch,Lead Generation,Germany,2026-01-10,28409.05,Active
+C106,Brand Awareness,Retargeting,UK,2026-03-10,83205.41,Paused
+C107,Retargeting,Awareness,Germany,2026-02-19,64214.98,Completed
+C108,Product Launch,Retargeting,USA,2026-03-09,52518.2,Active
+C109,Retargeting,Retargeting,India,2026-03-06,92398.21,Active
+C110,Retargeting,Acquisition,Australia,2026-03-29,59452.1,Active
+C111,Product Launch,Acquisition,India,2026-02-24,59825.0,Completed
+C112,Retargeting,Retargeting,Germany,2026-03-24,13415.85,Active
+C113,Retargeting,Retargeting,USA,2026-03-11,66120.46,Completed
+C114,Holiday Sale,Acquisition,India,2026-02-27,79867.01,Active
+C115,Brand Awareness,Promotional,UK,2026-02-03,62508.59,Paused
+C116,Lead Generation,Lead Generation,India,2026-02-15,82582.23,Active
+C117,Brand Awareness,Awareness,Germany,2026-03-24,62981.45,Completed
+C118,Product Launch,Awareness,India,2026-03-15,73109.86,Completed
+C119,Retargeting,Acquisition,Germany,2026-02-14,35366.63,Completed
+C120,Holiday Sale,Lead Generation,Germany,2026-02-19,23681.94,Active
+C121,Product Launch,Acquisition,UK,2026-02-25,60864.05,Active
+C122,Retargeting,Acquisition,Australia,2026-03-11,75951.52,Active
+C123,Retargeting,Promotional,Australia,2026-01-22,59334.66,Active
+C124,Lead Generation,Promotional,USA,2026-01-17,25983.92,Active
+C125,Product Launch,Lead Generation,Australia,2026-03-07,82611.69,Completed
+C126,Retargeting,Acquisition,India,2026-02-16,25842.64,Completed
+C127,Holiday Sale,Lead Generation,Australia,2026-02-19,47356.23,Completed
+C128,Retargeting,Acquisition,Germany,2026-02-13,87496.1,Active
+C129,Holiday Sale,Awareness,USA,2026-03-04,28339.09,Active
+C130,Product Launch,Promotional,UK,2026-02-13,37303.75,Active
+C131,Retargeting,Promotional,USA,2026-03-02,96065.35,Active
+C132,Brand Awareness,Awareness,Germany,2026-02-16,54723.66,Active
+C133,Retargeting,Retargeting,India,2026-01-05,33682.65,Completed
+C134,Retargeting,Promotional,UK,2026-02-25,10493.39,Active
+C135,Retargeting,Promotional,Germany,2026-01-08,55648.13,Active
+C136,Lead Generation,Promotional,Australia,2026-02-24,88102.93,Paused
+C137,Retargeting,Lead Generation,India,2026-01-07,33010.77,Active
+C138,Holiday Sale,Lead Generation,UK,2026-03-27,64537.99,Active
+C139,Retargeting,Retargeting,Australia,2026-01-22,14279.31,Completed
+C140,Retargeting,Retargeting,Australia,2026-01-20,10280.76,Completed
+C141,Holiday Sale,Awareness,Australia,2026-01-01,59935.65,Active
+C142,Retargeting,Retargeting,Germany,2026-01-13,19952.4,Active
+C143,Product Launch,Awareness,USA,2026-01-04,97958.96,Active
+C144,Retargeting,Awareness,Germany,2026-03-07,68023.71,Active
+C145,Retargeting,Promotional,USA,2026-01-12,54309.68,Active
+C146,Retargeting,Awareness,Germany,2026-01-22,49458.41,Completed
+C147,Retargeting,Retargeting,USA,2026-03-22,18964.36,Active
+C148,Retargeting,Lead Generation,UK,2026-01-26,74850.3,Completed
+C149,Holiday Sale,Awareness,UK,2026-02-26,96986.82,Active
+C150,Brand Awareness,Promotional,USA,2026-01-17,60149.67,Active
+C151,Holiday Sale,Retargeting,Australia,2026-02-04,61008.03,Active
+C152,Retargeting,Retargeting,USA,2026-02-12,28004.98,Active
+C153,Product Launch,Promotional,Germany,2026-03-18,28146.39,Active
+C154,Lead Generation,Awareness,India,2026-02-06,11778.34,Completed
+C155,Brand Awareness,Awareness,Germany,2026-02-05,73790.43,Active
+C156,Lead Generation,Promotional,India,2026-03-29,80498.69,Active
+C157,Brand Awareness,Acquisition,UK,2026-02-02,64483.66,Active
+C158,Retargeting,Promotional,UK,2026-03-02,17956.05,Completed
+C159,Product Launch,Promotional,Australia,2026-03-26,18320.45,Paused
+C160,Product Launch,Acquisition,Australia,2026-02-22,40386.85,Completed
+C161,Retargeting,Awareness,UK,2026-03-07,70477.66,Active
+C162,Brand Awareness,Lead Generation,Germany,2026-02-21,82998.5,Active
+C163,Holiday Sale,Lead Generation,India,2026-03-07,68331.71,Completed
+C164,Lead Generation,Awareness,USA,2026-01-26,17709.11,Active
+C165,Holiday Sale,Acquisition,UK,2026-02-21,47432.72,Active
+C166,Brand Awareness,Awareness,UK,2026-03-21,20190.62,Paused
+C167,Brand Awareness,Lead Generation,USA,2026-01-17,44633.44,Active
+C168,Retargeting,Lead Generation,Australia,2026-01-11,90856.52,Active
+C169,Holiday Sale,Awareness,India,2026-02-05,84550.03,Paused
+C170,Product Launch,Retargeting,Germany,2026-03-08,66877.86,Active
+C171,Product Launch,Lead Generation,USA,2026-03-15,28973.73,Active
+C172,Holiday Sale,Retargeting,Germany,2026-01-12,19181.55,Active
+C173,Brand Awareness,Promotional,UK,2026-02-27,86402.83,Completed
+C174,Holiday Sale,Retargeting,Australia,2026-02-14,55225.82,Completed
+C175,Brand Awareness,Promotional,UK,2026-02-21,17413.07,Paused
+C176,Product Launch,Promotional,Australia,2026-01-20,89037.44,Paused
+C177,Product Launch,Awareness,India,2026-01-17,58923.66,Active
+C178,Holiday Sale,Lead Generation,Germany,2026-02-19,94259.88,Active
+C179,Holiday Sale,Lead Generation,India,2026-02-22,13354.47,Completed
+C180,Product Launch,Promotional,Australia,2026-01-18,31051.69,Active
+C181,Product Launch,Acquisition,Germany,2026-01-20,39908.6,Completed
+C182,Holiday Sale,Acquisition,India,2026-02-15,20497.93,Active
+C183,Product Launch,Retargeting,Australia,2026-02-24,26176.73,Active
+C184,Lead Generation,Promotional,Germany,2026-01-03,59531.14,Completed
+C185,Holiday Sale,Promotional,USA,2026-03-06,38342.26,Active
+C186,Lead Generation,Promotional,India,2026-01-23,51966.28,Completed
+C187,Lead Generation,Awareness,India,2026-03-11,20714.51,Completed
+C188,Product Launch,Awareness,USA,2026-03-08,97059.73,Active
+C189,Retargeting,Lead Generation,India,2026-03-20,56548.87,Paused
+C190,Brand Awareness,Awareness,USA,2026-02-16,39647.19,Active
+C191,Brand Awareness,Promotional,Germany,2026-03-04,55624.6,Active
+C192,Retargeting,Awareness,India,2026-02-14,70972.64,Completed
+C193,Product Launch,Promotional,UK,2026-01-29,49540.17,Active
+C194,Brand Awareness,Acquisition,Germany,2026-02-27,58297.06,Active
+C195,Retargeting,Acquisition,India,2026-03-02,55730.71,Completed
+C196,Holiday Sale,Acquisition,USA,2026-02-17,69482.4,Completed
+C197,Product Launch,Lead Generation,Australia,2026-01-26,35344.26,Active
+C198,Brand Awareness,Awareness,India,2026-01-24,79067.15,Active
+C199,Holiday Sale,Retargeting,India,2026-03-25,49382.58,Active
+C200,Brand Awareness,Retargeting,USA,2026-03-22,86792.8,Active
+C201,Retargeting,Retargeting,UK,2026-03-11,42442.0,Active
+C202,Retargeting,Acquisition,India,2026-01-29,27923.48,Active
+C203,Retargeting,Awareness,Germany,2026-02-12,34629.69,Active
+C204,Retargeting,Retargeting,Australia,2026-01-02,17524.65,Paused
+C205,Brand Awareness,Acquisition,UK,2026-02-21,68650.71,Active
+C206,Holiday Sale,Lead Generation,Australia,2026-01-18,31605.26,Active
+C207,Brand Awareness,Acquisition,USA,2026-03-31,45960.56,Active
+C208,Brand Awareness,Acquisition,USA,2026-02-06,36487.55,Active
+C209,Holiday Sale,Acquisition,Germany,2026-01-04,33321.85,Paused
+C210,Product Launch,Awareness,Germany,2026-01-01,92897.3,Paused
+C211,Retargeting,Retargeting,India,2026-03-03,97971.2,Completed
+C212,Lead Generation,Promotional,India,2026-02-19,78351.75,Active
+C213,Retargeting,Retargeting,India,2026-03-04,92551.22,Active
+C214,Holiday Sale,Retargeting,USA,2026-03-27,30226.53,Active
+C215,Holiday Sale,Retargeting,UK,2026-01-29,10805.66,Active
+C216,Product Launch,Acquisition,Germany,2026-02-20,39938.95,Active
+C217,Lead Generation,Awareness,India,2026-01-13,26666.03,Active
+C218,Lead Generation,Promotional,USA,2026-01-19,24090.96,Active
+C219,Product Launch,Lead Generation,Australia,2026-01-28,98798.41,Active
+C220,Brand Awareness,Lead Generation,USA,2026-01-06,26475.23,Active
+C221,Holiday Sale,Awareness,India,2026-01-11,42445.45,Active
+C222,Lead Generation,Retargeting,India,2026-02-18,13127.37,Active
+C223,Product Launch,Awareness,Australia,2026-02-14,73024.03,Active
+C224,Product Launch,Acquisition,India,2026-03-03,53901.67,Active
+C225,Lead Generation,Awareness,Germany,2026-02-28,21352.92,Active
+C226,Product Launch,Awareness,India,2026-02-27,34195.86,Active
+C227,Retargeting,Retargeting,Germany,2026-01-24,14937.21,Active
+C228,Product Launch,Acquisition,USA,2026-02-21,97903.68,Active
+C229,Lead Generation,Promotional,UK,2026-02-01,37561.46,Completed
+C230,Product Launch,Lead Generation,UK,2026-02-03,15662.31,Completed
+C231,Lead Generation,Acquisition,Australia,2026-02-14,88426.2,Paused
+C232,Product Launch,Awareness,UK,2026-02-04,59205.38,Active
+C233,Lead Generation,Lead Generation,Australia,2026-01-12,61327.58,Completed
+C234,Lead Generation,Acquisition,USA,2026-03-19,44514.76,Active
+C235,Retargeting,Acquisition,Germany,2026-02-05,69415.68,Active
+C236,Retargeting,Retargeting,UK,2026-01-05,37318.16,Active
+C237,Brand Awareness,Retargeting,UK,2026-02-28,63299.9,Active
+C238,Lead Generation,Lead Generation,India,2026-01-27,32348.65,Active
+C239,Lead Generation,Promotional,India,2026-03-13,48257.25,Active
+C240,Product Launch,Lead Generation,UK,2026-01-26,31503.39,Active
+C241,Retargeting,Promotional,USA,2026-03-18,92931.97,Active
+C242,Holiday Sale,Acquisition,Germany,2026-03-30,53829.48,Completed
+C243,Brand Awareness,Acquisition,India,2026-02-17,63874.07,Active
+C244,Retargeting,Acquisition,Germany,2026-02-15,64266.97,Active
+C245,Retargeting,Awareness,India,2026-01-15,89336.38,Active
+C246,Lead Generation,Awareness,Australia,2026-01-17,55179.23,Active
+C247,Retargeting,Awareness,USA,2026-01-19,96002.18,Paused
+C248,Lead Generation,Lead Generation,UK,2026-03-18,82274.47,Active
+C249,Brand Awareness,Retargeting,USA,2026-03-20,90053.41,Completed
+C250,Brand Awareness,Acquisition,Australia,2026-02-03,62763.31,Active
+C251,Retargeting,Lead Generation,Australia,2026-03-17,36873.18,Active
+C252,Brand Awareness,Retargeting,Australia,2026-02-04,25363.1,Active
+C253,Brand Awareness,Awareness,Germany,2026-01-15,70881.9,Completed
+C254,Retargeting,Promotional,India,2026-01-31,14217.94,Active
+C255,Lead Generation,Acquisition,USA,2026-02-07,62359.44,Completed
+C256,Retargeting,Awareness,UK,2026-01-14,48734.68,Active
+C257,Holiday Sale,Awareness,UK,2026-03-02,27547.32,Completed
+C258,Product Launch,Promotional,USA,2026-02-10,88704.17,Active
+C259,Retargeting,Lead Generation,Germany,2026-03-08,34843.75,Active
+C260,Brand Awareness,Lead Generation,Germany,2026-02-19,20069.77,Active
+C261,Product Launch,Acquisition,Germany,2026-02-24,34628.12,Completed
+C262,Retargeting,Lead Generation,Germany,2026-02-10,50655.67,Completed
+C263,Lead Generation,Acquisition,Australia,2026-02-23,60845.67,Active
+C264,Lead Generation,Retargeting,Australia,2026-02-04,95488.98,Completed
+C265,Product Launch,Awareness,UK,2026-01-31,42170.64,Active
+C266,Product Launch,Lead Generation,India,2026-01-21,83911.44,Active
+C267,Retargeting,Lead Generation,Australia,2026-03-18,80456.75,Active
+C268,Product Launch,Promotional,UK,2026-03-19,38357.15,Active
+C269,Product Launch,Lead Generation,UK,2026-03-17,69166.73,Active
+C270,Holiday Sale,Awareness,USA,2026-03-19,70750.28,Completed
+C271,Product Launch,Acquisition,Germany,2026-01-24,27799.97,Completed
+C272,Lead Generation,Awareness,Germany,2026-02-20,94003.18,Completed
+C273,Product Launch,Acquisition,India,2026-03-28,15730.45,Paused
+C274,Brand Awareness,Acquisition,UK,2026-03-05,15562.61,Active
+C275,Brand Awareness,Promotional,Germany,2026-01-14,59822.84,Active
+C276,Holiday Sale,Awareness,UK,2026-03-23,38193.76,Active
+C277,Product Launch,Retargeting,UK,2026-02-22,59755.16,Completed
+C278,Brand Awareness,Promotional,India,2026-01-15,36689.79,Paused
+C279,Product Launch,Acquisition,USA,2026-01-15,89799.99,Active
+C280,Product Launch,Lead Generation,Australia,2026-01-12,50905.02,Active
+C281,Lead Generation,Acquisition,Germany,2026-01-21,20155.42,Paused
+C282,Holiday Sale,Awareness,USA,2026-01-18,34577.99,Active
+C283,Holiday Sale,Retargeting,USA,2026-03-31,24452.17,Active
+C284,Brand Awareness,Acquisition,USA,2026-02-23,98996.33,Active
+C285,Brand Awareness,Awareness,USA,2026-03-04,78831.81,Completed
+C286,Holiday Sale,Retargeting,USA,2026-01-07,31487.97,Completed
+C287,Brand Awareness,Acquisition,India,2026-03-05,28586.21,Completed
+C288,Brand Awareness,Promotional,USA,2026-03-08,73877.27,Completed
+C289,Holiday Sale,Promotional,USA,2026-01-01,80524.1,Active
+C290,Brand Awareness,Acquisition,USA,2026-01-05,54848.94,Active
+C291,Holiday Sale,Lead Generation,UK,2026-02-15,93035.37,Paused
+C292,Lead Generation,Retargeting,USA,2026-01-03,48975.97,Completed
+C293,Product Launch,Promotional,Australia,2026-02-02,63700.34,Completed
+C294,Holiday Sale,Retargeting,UK,2026-03-28,15598.16,Completed
+C295,Lead Generation,Awareness,Germany,2026-03-26,58606.2,Active
+C296,Retargeting,Lead Generation,Australia,2026-02-01,30603.29,Active
+C297,Retargeting,Lead Generation,USA,2026-03-31,20962.02,Completed
+C298,Brand Awareness,Promotional,Australia,2026-02-20,42586.96,Active
+C299,Holiday Sale,Lead Generation,Australia,2026-02-16,63670.15,Paused
+C300,Product Launch,Lead Generation,Germany,2026-02-13,86121.14,Active
+C301,Product Launch,Acquisition,Germany,2026-03-12,39981.79,Active
+C302,Brand Awareness,Acquisition,UK,2026-02-28,56407.57,Completed
+C303,Product Launch,Acquisition,USA,2026-02-22,70105.43,Active
+C304,Product Launch,Acquisition,Germany,2026-03-26,10969.15,Completed
+C305,Brand Awareness,Lead Generation,UK,2026-01-27,60849.29,Completed
+C306,Lead Generation,Acquisition,UK,2026-02-20,64296.6,Active
+C307,Brand Awareness,Promotional,India,2026-01-08,20894.36,Active
+C308,Product Launch,Retargeting,India,2026-01-30,50120.25,Completed
+C309,Retargeting,Acquisition,UK,2026-03-04,49662.9,Completed
+C310,Lead Generation,Lead Generation,India,2026-01-04,77110.41,Active
+C311,Brand Awareness,Retargeting,Australia,2026-02-16,38360.32,Completed
+C312,Holiday Sale,Promotional,UK,2026-02-28,42716.02,Active
+C313,Retargeting,Promotional,Australia,2026-01-09,15437.89,Active
+C314,Retargeting,Promotional,India,2026-02-07,32223.33,Completed
+C315,Lead Generation,Promotional,India,2026-01-05,68879.62,Active
+C316,Product Launch,Lead Generation,India,2026-03-27,38381.37,Active
+C317,Product Launch,Promotional,USA,2026-03-27,63458.54,Active
+C318,Holiday Sale,Promotional,Germany,2026-02-22,42546.04,Active
+C319,Lead Generation,Awareness,USA,2026-01-10,63058.32,Active
+C320,Holiday Sale,Lead Generation,Australia,2026-02-27,68627.84,Active
+C321,Lead Generation,Retargeting,Australia,2026-03-12,46463.37,Active
+C322,Brand Awareness,Promotional,India,2026-02-27,89692.53,Active
+C323,Lead Generation,Lead Generation,Germany,2026-03-12,10534.77,Active
+C324,Holiday Sale,Retargeting,Germany,2026-02-18,21693.8,Active
+C325,Brand Awareness,Lead Generation,Australia,2026-03-21,59920.9,Active
+C326,Product Launch,Awareness,UK,2026-02-04,24270.89,Paused
+C327,Lead Generation,Acquisition,India,2026-03-31,36794.66,Active
+C328,Brand Awareness,Lead Generation,India,2026-02-11,31526.55,Active
+C329,Holiday Sale,Retargeting,India,2026-03-30,83184.55,Active
+C330,Brand Awareness,Promotional,Germany,2026-03-03,33078.9,Completed
+C331,Brand Awareness,Lead Generation,India,2026-02-05,50994.56,Active
+C332,Lead Generation,Awareness,Germany,2026-01-22,88009.6,Completed
+C333,Brand Awareness,Awareness,India,2026-03-22,52674.55,Active
+C334,Brand Awareness,Lead Generation,Australia,2026-01-17,89184.19,Completed
+C335,Lead Generation,Lead Generation,India,2026-03-27,65205.0,Completed
+C336,Lead Generation,Acquisition,Germany,2026-03-22,82505.52,Paused
+C337,Holiday Sale,Acquisition,India,2026-02-26,45096.77,Active
+C338,Product Launch,Retargeting,Germany,2026-03-03,59421.16,Completed
+C339,Holiday Sale,Acquisition,India,2026-02-21,11696.65,Active
+C340,Retargeting,Promotional,USA,2026-03-20,71078.4,Active
+C341,Lead Generation,Retargeting,Australia,2026-01-14,11902.18,Active
+C342,Brand Awareness,Acquisition,UK,2026-02-03,77254.07,Active
+C343,Lead Generation,Promotional,USA,2026-02-01,99381.96,Active
+C344,Lead Generation,Lead Generation,Germany,2026-02-21,96122.77,Completed
+C345,Retargeting,Awareness,Germany,2026-02-15,66601.25,Active
+C346,Retargeting,Retargeting,India,2026-02-24,80634.43,Completed
+C347,Brand Awareness,Lead Generation,UK,2026-01-27,30827.09,Active
+C348,Product Launch,Promotional,India,2026-03-22,51572.38,Active
+C349,Lead Generation,Retargeting,UK,2026-01-28,76612.43,Paused
+C350,Holiday Sale,Acquisition,USA,2026-03-20,21772.88,Active
+C351,Retargeting,Acquisition,USA,2026-01-09,36084.07,Completed
+C352,Retargeting,Awareness,Germany,2026-01-24,25532.0,Active
+C353,Lead Generation,Awareness,UK,2026-03-05,33266.11,Active
+C354,Lead Generation,Retargeting,UK,2026-03-29,20056.52,Active
+C355,Holiday Sale,Lead Generation,India,2026-01-22,28495.11,Active
+C356,Lead Generation,Retargeting,USA,2026-02-03,65910.25,Completed
+C357,Brand Awareness,Awareness,USA,2026-03-26,96160.47,Active
+C358,Lead Generation,Promotional,Germany,2026-02-24,59122.59,Active
+C359,Lead Generation,Promotional,USA,2026-03-01,93280.68,Completed
+C360,Holiday Sale,Acquisition,Germany,2026-03-31,42911.76,Completed
+C361,Lead Generation,Acquisition,Australia,2026-03-28,74051.28,Completed
+C362,Retargeting,Acquisition,India,2026-02-06,40599.73,Active
+C363,Brand Awareness,Awareness,India,2026-02-22,56054.52,Active
+C364,Product Launch,Retargeting,Germany,2026-02-27,23402.98,Active
+C365,Lead Generation,Retargeting,USA,2026-03-14,79075.34,Active
+C366,Retargeting,Lead Generation,USA,2026-03-30,33597.2,Active
+C367,Lead Generation,Awareness,Australia,2026-01-18,52315.63,Active
+C368,Product Launch,Retargeting,UK,2026-02-26,97563.66,Active
+C369,Lead Generation,Awareness,Germany,2026-01-31,52261.76,Completed
+C370,Brand Awareness,Retargeting,India,2026-03-01,91875.98,Active
+C371,Holiday Sale,Retargeting,USA,2026-01-19,86027.32,Active
+C372,Lead Generation,Lead Generation,UK,2026-03-12,55201.31,Active
+C373,Lead Generation,Retargeting,India,2026-03-18,22094.32,Completed
+C374,Product Launch,Awareness,USA,2026-03-12,26661.12,Paused
+C375,Lead Generation,Awareness,Australia,2026-03-13,48008.58,Active
+C376,Product Launch,Awareness,Germany,2026-03-27,49286.23,Completed
+C377,Holiday Sale,Promotional,UK,2026-01-15,79170.1,Active
+C378,Holiday Sale,Lead Generation,UK,2026-02-28,77015.62,Active
+C379,Holiday Sale,Awareness,USA,2026-02-23,17263.81,Active
+C380,Retargeting,Promotional,Australia,2026-01-23,43072.92,Completed
+C381,Holiday Sale,Retargeting,UK,2026-03-06,13531.63,Paused
+C382,Retargeting,Promotional,India,2026-01-06,30482.3,Active
+C383,Holiday Sale,Acquisition,India,2026-02-05,96038.04,Active
+C384,Holiday Sale,Lead Generation,UK,2026-01-08,34061.97,Completed
+C385,Product Launch,Lead Generation,India,2026-01-27,19841.45,Active
+C386,Lead Generation,Promotional,UK,2026-03-28,71644.11,Completed
+C387,Holiday Sale,Retargeting,Australia,2026-03-13,18614.0,Active
+C388,Holiday Sale,Promotional,UK,2026-03-16,92399.32,Active
+C389,Product Launch,Awareness,Germany,2026-03-30,66402.44,Completed
+C390,Retargeting,Lead Generation,Germany,2026-02-23,72263.34,Active
+C391,Retargeting,Retargeting,UK,2026-03-30,59766.32,Active
+C392,Product Launch,Lead Generation,UK,2026-03-22,42487.34,Completed
+C393,Product Launch,Lead Generation,India,2026-02-15,12733.65,Completed
+C394,Brand Awareness,Promotional,Germany,2026-03-20,35783.21,Paused
+C395,Lead Generation,Awareness,India,2026-01-24,15391.1,Active
+C396,Brand Awareness,Promotional,USA,2026-02-02,79409.69,Completed
+C397,Brand Awareness,Retargeting,USA,2026-03-30,48707.98,Completed
+C398,Brand Awareness,Acquisition,India,2026-03-14,70747.94,Active
+C399,Retargeting,Awareness,Germany,2026-02-27,85157.34,Paused
+C400,Product Launch,Promotional,Germany,2026-01-18,36608.92,Completed
+C401,Retargeting,Lead Generation,India,2026-01-13,88715.5,Active
+C402,Lead Generation,Retargeting,UK,2026-03-30,21246.49,Active
+C403,Product Launch,Awareness,USA,2026-03-13,57423.55,Active
+C404,Product Launch,Awareness,USA,2026-01-29,79965.58,Active
+C405,Brand Awareness,Acquisition,India,2026-01-13,76585.81,Active
+C406,Retargeting,Awareness,UK,2026-01-26,69473.27,Active
+C407,Holiday Sale,Lead Generation,Australia,2026-01-10,60861.74,Paused
+C408,Retargeting,Lead Generation,Germany,2026-01-17,29831.32,Completed
+C409,Product Launch,Acquisition,India,2026-02-05,31461.08,Active
+C410,Product Launch,Acquisition,USA,2026-02-19,10838.49,Completed
+C411,Brand Awareness,Awareness,USA,2026-03-20,50343.1,Active
+C412,Brand Awareness,Promotional,India,2026-03-23,33881.76,Completed
+C413,Brand Awareness,Awareness,India,2026-01-24,31673.37,Paused
+C414,Product Launch,Lead Generation,Australia,2026-02-19,67467.71,Active
+C415,Holiday Sale,Lead Generation,Germany,2026-03-06,24117.22,Completed
+C416,Holiday Sale,Promotional,India,2026-01-04,31285.45,Active
+C417,Lead Generation,Retargeting,UK,2026-02-10,77183.63,Active
+C418,Holiday Sale,Lead Generation,USA,2026-01-05,45732.63,Active
+C419,Product Launch,Acquisition,USA,2026-01-19,79101.73,Active
+C420,Product Launch,Awareness,USA,2026-02-16,26244.89,Active
+C421,Brand Awareness,Promotional,Australia,2026-01-06,44432.02,Active
+C422,Retargeting,Promotional,Australia,2026-03-22,65957.83,Active
+C423,Retargeting,Promotional,UK,2026-03-15,62381.81,Paused
+C424,Product Launch,Lead Generation,USA,2026-02-22,36641.74,Active
+C425,Lead Generation,Awareness,Australia,2026-01-28,99317.29,Active
+C426,Product Launch,Acquisition,USA,2026-03-09,45080.93,Active
+C427,Retargeting,Retargeting,India,2026-02-27,67477.81,Completed
+C428,Lead Generation,Retargeting,India,2026-03-17,25028.5,Active
+C429,Lead Generation,Awareness,UK,2026-03-23,25607.37,Active
+C430,Lead Generation,Awareness,Germany,2026-01-12,11236.59,Active
+C431,Lead Generation,Lead Generation,USA,2026-01-03,31382.26,Active
+C432,Product Launch,Acquisition,UK,2026-02-08,27967.51,Active
+C433,Product Launch,Promotional,USA,2026-01-11,81557.92,Active
+C434,Brand Awareness,Lead Generation,India,2026-01-01,25989.44,Active
+C435,Product Launch,Retargeting,Germany,2026-02-03,43364.88,Completed
+C436,Lead Generation,Retargeting,UK,2026-02-07,93369.93,Active
+C437,Holiday Sale,Awareness,USA,2026-02-27,44478.32,Active
+C438,Retargeting,Lead Generation,Australia,2026-03-19,24210.68,Active
+C439,Brand Awareness,Promotional,Australia,2026-03-27,89918.76,Paused
+C440,Holiday Sale,Promotional,Australia,2026-03-12,24645.23,Completed
+C441,Holiday Sale,Acquisition,USA,2026-03-27,94939.84,Active
+C442,Retargeting,Lead Generation,UK,2026-01-31,95299.35,Paused
+C443,Lead Generation,Acquisition,USA,2026-03-15,28770.92,Active
+C444,Brand Awareness,Awareness,USA,2026-03-06,33121.69,Active
+C445,Retargeting,Awareness,UK,2026-03-31,71259.72,Active
+C446,Lead Generation,Retargeting,UK,2026-03-06,40775.16,Active
+C447,Lead Generation,Awareness,Australia,2026-01-04,22149.48,Paused
+C448,Holiday Sale,Acquisition,UK,2026-02-14,54531.01,Active
+C449,Retargeting,Retargeting,UK,2026-01-14,10510.07,Active
+C450,Retargeting,Retargeting,Australia,2026-01-10,32064.91,Active
+C451,Retargeting,Promotional,India,2026-03-19,65712.1,Completed
+C452,Holiday Sale,Promotional,India,2026-03-25,97803.45,Active
+C453,Brand Awareness,Acquisition,India,2026-01-28,15332.15,Active
+C454,Brand Awareness,Acquisition,USA,2026-02-21,18181.04,Active
+C455,Holiday Sale,Promotional,USA,2026-03-12,51691.94,Active
+C456,Product Launch,Lead Generation,UK,2026-01-17,84014.86,Active
+C457,Lead Generation,Awareness,Germany,2026-01-05,25382.63,Paused
+C458,Product Launch,Retargeting,Germany,2026-03-02,61759.09,Paused
+C459,Lead Generation,Retargeting,Germany,2026-01-22,40162.63,Active
+C460,Retargeting,Promotional,Germany,2026-03-11,52183.54,Paused
+C461,Brand Awareness,Retargeting,UK,2026-03-31,23243.61,Completed
+C462,Holiday Sale,Acquisition,Germany,2026-01-11,86252.86,Completed
+C463,Brand Awareness,Promotional,Australia,2026-02-25,47779.26,Completed
+C464,Holiday Sale,Retargeting,UK,2026-02-08,12415.55,Active
+C465,Brand Awareness,Retargeting,Germany,2026-02-24,65111.85,Active
+C466,Retargeting,Lead Generation,UK,2026-03-27,33176.65,Active
+C467,Holiday Sale,Promotional,USA,2026-03-13,78427.66,Paused
+C468,Lead Generation,Acquisition,USA,2026-02-22,11063.35,Completed
+C469,Product Launch,Promotional,Australia,2026-03-30,47470.78,Active
+C470,Lead Generation,Retargeting,Australia,2026-03-12,67564.74,Paused
+C471,Product Launch,Promotional,India,2026-03-19,39015.35,Active
+C472,Holiday Sale,Acquisition,UK,2026-01-14,43697.81,Completed
+C473,Brand Awareness,Promotional,Germany,2026-03-24,45112.14,Completed
+C474,Brand Awareness,Promotional,USA,2026-01-25,71311.53,Active
+C475,Lead Generation,Retargeting,UK,2026-02-26,93653.06,Active
+C476,Retargeting,Lead Generation,Germany,2026-03-28,93614.39,Active
+C477,Lead Generation,Promotional,USA,2026-03-29,29817.74,Active
+C478,Holiday Sale,Lead Generation,Germany,2026-01-08,59320.07,Active
+C479,Brand Awareness,Promotional,UK,2026-02-23,50255.28,Active
+C480,Lead Generation,Promotional,USA,2026-03-22,30344.77,Active
+C481,Product Launch,Awareness,India,2026-02-21,70670.38,Completed
+C482,Lead Generation,Retargeting,India,2026-01-06,86461.47,Paused
+C483,Product Launch,Promotional,India,2026-02-20,72341.26,Active
+C484,Holiday Sale,Promotional,India,2026-02-23,31772.61,Active
+C485,Retargeting,Promotional,UK,2026-03-05,87747.96,Active
+C486,Brand Awareness,Awareness,Australia,2026-01-02,76362.1,Active
+C487,Lead Generation,Promotional,India,2026-01-20,45232.53,Paused
+C488,Brand Awareness,Promotional,India,2026-03-23,65075.24,Active
+C489,Retargeting,Awareness,Australia,2026-02-11,75046.88,Completed
+C490,Brand Awareness,Lead Generation,Germany,2026-02-18,75641.53,Active
+C491,Product Launch,Retargeting,Germany,2026-01-16,44388.51,Completed
+C492,Retargeting,Retargeting,UK,2026-02-18,20194.13,Active
+C493,Retargeting,Promotional,Australia,2026-01-27,69552.05,Active
+C494,Retargeting,Acquisition,USA,2026-02-04,59406.89,Completed
+C495,Product Launch,Acquisition,Australia,2026-02-14,62074.86,Active
+C496,Brand Awareness,Acquisition,UK,2026-03-04,84546.72,Active
+C497,Product Launch,Awareness,India,2026-01-01,87953.34,Paused
+C498,Product Launch,Promotional,UK,2026-03-02,64556.48,Active
+C499,Holiday Sale,Acquisition,UK,2026-03-30,76951.71,Active
+C500,Product Launch,Acquisition,UK,2026-02-24,71563.7,Active
